@@ -1,0 +1,212 @@
+body {
+  margin: 0px;
+  overflow-x: hidden;
+}
+
+.readMore {
+  background-color: black;
+  padding: 7px;
+}
+
+.website-logo>a {
+  color: white;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  background-color: black;
+  color: white;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.readMore>a {
+  color: white;
+}
+
+.mainPost>div>h2 {
+  margin: 0px;
+}
+
+.navbar {
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 50px;
+  background-color: black;
+  font-family: 'Hina Mincho', serif;
+  flex-wrap: wrap;
+  color: white;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=News+Cycle:wght@700&display=swap');
+
+.website-logo {
+  padding-left: 50px;
+}
+
+hr {
+  line-height: 4px;
+  width: 100%;
+}
+
+.mainPost {
+  display: flex;
+}
+.setText>figcaption{
+  text-align: left;
+}
+
+.imgMain {
+  height: 100%;
+  width: 100%;
+  display: block;
+}
+
+.headline {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 10px;
+}
+
+.post {
+  display: flex;
+  text-align: justify;
+}
+
+.post>img {
+  height: 100%;
+  width: 100%;
+}
+
+.aboutMe>img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.aboutMe {
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cgrid>div>p {
+  margin: 0px;
+  font-size: 15px;
+  text-align: left;
+  font-family: 'Zilla Slab', serif;
+  line-height: 23px;
+}
+
+/* #seven{justify-content: center;} */
+.setText {
+  margin-left: 10px;
+  justify-content: space-between;
+  display: flex;
+  flex-direction: column;
+}
+
+body {
+  margin: 0px 0px 0px 0px;
+}
+
+.setText>p {
+  font-size: 15px;
+  text-align: justify;
+  font-family: 'Zilla Slab', serif;
+  margin: 0px;
+  line-height: 23px;
+}
+
+.verticalCards>p {
+  font-size: 15px;
+  text-align: justify;
+  font-family: 'Zilla Slab', serif;
+  margin: 0px;
+  line-height: 23px;
+}
+
+.mainPara {
+  font-size: 17px;
+  text-align: justify;
+  font-family: 'Zilla Slab', serif;
+  margin: 0px;
+  line-height: 23px;
+  letter-spacing: 1px;
+}
+
+#sidebar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+/* #sidebar>img{
+  height:60%;
+  width:80%;
+} */
+#sidebar>p {
+  font-size: 17px;
+  text-align: center;
+  font-family: 'Zilla Slab', serif;
+  margin: 0px;
+  line-height: 23px;
+  letter-spacing: normal;
+}
+
+span {
+  float: left;
+  width: 0.7em;
+  font-size: 400%;
+  font-family: algerian, courier;
+  line-height: 80%;
+  margin-right: 7px;
+}
+
+
+img {
+  margin: 0px;
+  max-width: 60%;
+  max-height: 100%;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.nav-item>a {
+  color: white;
+}
+
+.foot-items>a {
+  color: white;
+}
+
+.nav-item {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.nav-items {
+  display: flex;
+  font-size: 22px;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 10%;
+}
