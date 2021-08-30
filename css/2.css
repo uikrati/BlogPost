@@ -14,6 +14,10 @@
     ' six seven seven seven eight eight';
 }
 
+figcaption{
+  text-decoration: underline;
+}
+
 .con1 {
   display: flex;
   flex-direction: column;
@@ -123,6 +127,13 @@ button>a {
   .cgrid {
     display: flex;
     flex-wrap: wrap;
+  }
+  .two{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .two>img{
+    width: 100%;
   }
 
   #details {
